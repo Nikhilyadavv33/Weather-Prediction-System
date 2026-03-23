@@ -6,7 +6,8 @@ import joblib
 app = Flask(__name__)
 from tensorflow.keras.models import load_model
 
-lstm_model = load_model("lstm_model.h5")
+lstm_model = load_model("lstm_model.h5", compile=False)
+
 # Load models
 model = load_model("model.h5")
 lr_model = joblib.load("lr_model.pkl")  # optional (not displayed)
