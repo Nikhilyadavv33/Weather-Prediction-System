@@ -1,13 +1,20 @@
-🌦️ Weather Prediction System Using Deep Neural Networks
-👥 Team Members
-2410030292 – M Uday Kiran (Team Lead)
-2410030343 – Ubbati Prashanth
-2410030312 – B Nithin
-2410030301 – N Pranav Sai
-2410030305 – B Nikhil Yadav
-🧾 Project Overview
+# 🌦️ Weather Prediction System Using Deep Neural Networks
+## 👥 Team Members
 
-The Weather Prediction System using Deep Neural Networks (DNN) is designed to forecast weather conditions such as rainfall based on historical atmospheric data.
+**2410030292** – M Uday Kiran (Team Lead)
+
+**2410030343** – Ubbati Prashanth
+
+**2410030312**– B Nithin
+
+**2410030301** – N Pranav Sai
+
+**2410030305**– B Nikhil Yadav
+
+---
+## 🧾 Project Overview
+
+The **Weather Prediction System** using Deep Neural Networks (DNN) is designed to forecast weather conditions such as rainfall based on historical atmospheric data.
 
 The system analyzes key parameters like temperature, humidity, pressure, and wind speed to identify patterns and generate accurate predictions.
 
@@ -17,21 +24,28 @@ This solution helps users make informed decisions for:
 ✈️ Travel scheduling
 ⚠️ Disaster preparedness
 
-By leveraging a Deep Neural Network, the system improves prediction accuracy compared to traditional statistical methods.
+By leveraging a Deep Neural Network, the system improves prediction accuracy compared to 
+traditional statistical methods.
 
-❗ Problem Statement
+---
+## ❗ Problem Statement
 
 Weather prediction is complex due to the dynamic nature of atmospheric conditions.
 
 Key Challenges:
+
 🌪️ Sudden and unpredictable climate changes
+
 📊 Large and complex datasets
+
 ❌ Limited accuracy of traditional prediction methods
+
 ⚙️ Lack of intelligent systems for localized predictions
 
 These challenges highlight the need for an automated and intelligent weather prediction system.
 
-💡 Solution
+---
+## 💡 Solution
 
 This project proposes a Deep Neural Network-based model trained on historical weather data to predict future conditions such as Rain / No Rain.
 
@@ -43,32 +57,44 @@ Generates predictions in real-time
 This approach ensures:
 
 ✅ Higher accuracy
+
 ⚡ Faster predictions
+
 🤖 Intelligent decision-making
-🛠️ Tech Stack
-Frontend
-HTML
-CSS
-JavaScript
-Backend
-Python
-Flask
-Machine Learning
-TensorFlow / Keras
-Scikit-learn
-Pandas
-NumPy
-Tools
-VS Code
-Jupyter Notebook
-✨ Key Features
+
+---
+## 🛠️ Tech Stack
+### Frontend
+ * HTML
+ * CSS
+ * JavaScript
+### Backend
+ * Python
+ * Flask
+ * Machine Learning
+ * TensorFlow / Keras
+ * Scikit-learn
+ * Pandas
+ * NumPy
+ * Tools
+ * VS Code
+ * Jupyter Notebook
+## ✨ Key Features
 🌦️ Predicts rainfall based on weather inputs
+
 🤖 Uses Deep Neural Network for improved accuracy
+
 ⚡ Real-time prediction capability
+
 📊 Handles multiple weather parameters
+
 💻 Simple and user-friendly interface
+
 🔄 Extendable with live weather APIs
+
+---
 ⚙️ How It Works
+
 🔄 Workflow
 1. Data Collection
 Historical weather data is collected
@@ -87,13 +113,19 @@ Flask backend sends input to trained model
 Model processes and predicts output
 6. Output Display
 Result displayed as:
-👉 Rain / No Rain
-🚀 Future Enhancements
-🌐 Integration with live weather APIs
-📱 Mobile application support
-📊 Advanced visualization dashboards
-🌍 Multi-location weather prediction
-🧠 Use of advanced models (LSTM, CNN)
+*  Rain / No Rain
+*  Future Enhancements
+* Integration with live weather APIs
+* Mobile application support
+* Advanced visualization dashboards
+* Multi-location weather prediction
+* Use of advanced models (LSTM, CNN)
+
+---
 📌 Conclusion
 
 The Weather Prediction System using DNN provides a smart and efficient way to forecast weather conditions. By combining machine learning with a simple web interface, it delivers accurate, fast, and user-friendly predictions.
+
+### GitHub Link
+
+https://github.com/Nikhilyadavv33/Weather-Prediction-System
